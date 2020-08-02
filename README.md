@@ -1,3 +1,4 @@
+permalink: /index.html
 # MyApp For Learning korean
 
 This project was generated with Angular
